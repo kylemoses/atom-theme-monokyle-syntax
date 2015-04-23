@@ -1,6 +1,5 @@
 # monokyle-syntax theme
 
-A theme based on monokai for me.
+A dark syntax theme based on monokai using my color preferences.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
-# atom-theme-monokyle-syntax
+![A screenshot of theme](https://raw.githubusercontent.com/kylemoses/atom-theme-monokyle-syntax/master/monokyle-sample.jpg)
