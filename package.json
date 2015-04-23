@@ -1,7 +1,7 @@
 {
   "name": "monokyle-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A dark syntax theme based on monokai using my color preferences",
   "repository": "https://github.com/kylemoses/atom-theme-monokyle-syntax",
   "license": "MIT",
